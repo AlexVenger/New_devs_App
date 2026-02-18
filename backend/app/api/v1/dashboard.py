@@ -1,4 +1,4 @@
-from _pydecimal import Decimal
+from decimal import Decimal
 
 from fastapi import APIRouter, Depends, HTTPException
 from typing import Dict, Any
