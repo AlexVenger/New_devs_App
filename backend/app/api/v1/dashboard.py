@@ -23,3 +23,4 @@ async def get_dashboard_summary(
         "currency": revenue_data['currency'],
         "reservations_count": revenue_data['count']
     }
+
