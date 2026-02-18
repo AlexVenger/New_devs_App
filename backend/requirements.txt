@@ -1,6 +1,7 @@
 # Auth Skeleton Dependencies - Core only
 aiohttp
 aioredis>=2.0.0
+asyncpg
 cachetools==6.2.0
 cryptography>=41.0.0
 fastapi
